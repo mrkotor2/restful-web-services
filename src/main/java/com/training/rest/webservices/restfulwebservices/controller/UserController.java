@@ -1,5 +1,7 @@
-package com.training.rest.webservices.restfulwebservices.user;
+package com.training.rest.webservices.restfulwebservices.controller;
 
+import com.training.rest.webservices.restfulwebservices.entity.User;
+import com.training.rest.webservices.restfulwebservices.UserDaoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.hateoas.EntityModel;
 import org.springframework.hateoas.Link;

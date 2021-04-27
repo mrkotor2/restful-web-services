@@ -1,6 +1,4 @@
-package com.training.rest.webservices.restfulwebservices.user.exception;
-
-import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
+package com.training.rest.webservices.restfulwebservices.exception;
 
 import java.util.Date;
 

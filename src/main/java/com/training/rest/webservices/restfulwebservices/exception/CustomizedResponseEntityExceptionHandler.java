@@ -1,4 +1,4 @@
-package com.training.rest.webservices.restfulwebservices.user.exception;
+package com.training.rest.webservices.restfulwebservices.exception;
 
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;

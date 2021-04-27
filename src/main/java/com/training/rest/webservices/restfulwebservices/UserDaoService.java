@@ -1,7 +1,8 @@
-package com.training.rest.webservices.restfulwebservices.user;
+package com.training.rest.webservices.restfulwebservices;
 
-import com.training.rest.webservices.restfulwebservices.user.exception.UserAlreadyExistsException;
-import com.training.rest.webservices.restfulwebservices.user.exception.UserNotFoundException;
+import com.training.rest.webservices.restfulwebservices.entity.User;
+import com.training.rest.webservices.restfulwebservices.exception.UserAlreadyExistsException;
+import com.training.rest.webservices.restfulwebservices.exception.UserNotFoundException;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;
